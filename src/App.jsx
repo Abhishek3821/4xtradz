@@ -29,7 +29,7 @@ function App() {
     <Router>
     <ScrollToTop />
       <Navbar />
-      <Routes>
+      <Routes >
         {/* ================= HOME ================= */}
         <Route path="/" element={<Homepage />} />
 
