@@ -4,11 +4,11 @@
 import Footer from './Components/Footer'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Navbar from './Components/Navbar'
-import TradingCosts from './pages/TradingCosts'
+
 import MarketsPlatform from './pages/MarketsPlatform'
 import MobileApp from './pages/MobileApp'
 import MetaTrader4 from './pages/MetaTrader4'
-import MT5 from './pages/MT5'
+
 import TradingView from './pages/TradingView'
 import Platforms from './pages/Platforms'
 import AboutUs from './pages/AboutUs'
@@ -24,6 +24,8 @@ import ContactUs from './pages/ContactUs'
 import CFDtrading from './pages/CFDtrading'
 import Homepage from './pages/Homepage'
 import FXActive from './pages/FXActive'
+import TradingCosts from './pages/TradingCosts'
+import MT5 from './pages/MT5'
 function App() {
 
 
