@@ -7,7 +7,7 @@ import TestimonialsSection from "../Components/TestimonialsSection";
 import SwitchToCMC from "../Components/SwitchToCMC";
 import FAQsSection from "../Components/FAQsSection";
 
-const RatesAndBonds = () => {
+const RatesAndbonds = () => {
   return (
     <>
         <TradeCFDHero />
@@ -22,4 +22,4 @@ const RatesAndBonds = () => {
   );
 };
 
-export default RatesAndBonds;
+export default RatesAndbonds;

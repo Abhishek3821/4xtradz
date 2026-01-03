@@ -51,7 +51,7 @@ function App() {
         <Route path="/commodities" element={<Commodities />} />
         <Route path="/shares" element={<Shares />} />
         <Route path="/etfs" element={<ETFs />} />
-        <Route path="/rates-bonds" element={<RatesAndBonds />} />
+        <Route path="/rates-bonds" element={<RatesAndbonds />} />
         <Route path="/cryptocurrencies" element={<Cryptocurrencies />} />
 
       </Routes>
