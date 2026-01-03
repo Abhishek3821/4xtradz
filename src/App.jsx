@@ -12,7 +12,6 @@ import MT5 from './Pages/MT5'
 import TradingView from './Pages/TradingView'
 import Platforms from './Pages/Platforms'
 import AboutUs from './Pages/AboutUs'
-// import ContactUs from './Pages/ContactUs'
 import Indices from './Pages/Indices'
 import Forex from './Pages/Forex'
 import Commodities from './Pages/Commodities'
@@ -21,6 +20,7 @@ import ETFs from './Pages/ETFs'
 import RatesAndBonds from './Pages/Rates&bonds'
 import Cryptocurrencies from './Pages/Cryptocurrencies'
 import ScrollToTop from './Components/ScrollToTop'
+import ContactUs from './Pages/ContactUs'
 function App() {
 
 
@@ -48,7 +48,7 @@ function App() {
 
         {/* ================= ABOUT US ================= */}
         <Route path="/about-us" element={<AboutUs />} />
-        {/* <Route path="/contact-us" element={<ContactUs />} /> */}
+        <Route path="/contact-us" element={<ContactUs />} />
 
         {/* ================= INDICES ================= */}
         <Route path="/indices" element={<Indices />} />
