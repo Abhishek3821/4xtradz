@@ -1,5 +1,5 @@
 
-import ContactUs from './pages/ContactUs'
+
 import CFDTrading from './pages/CFDTrading'
 import Homepage from './pages/Homepage'
 import Footer from './Components/Footer'
@@ -22,6 +22,7 @@ import ETFs from './pages/ETFs'
 import RatesAndBonds from './pages/Rates&bonds'
 import Cryptocurrencies from './pages/Cryptocurrencies'
 import ScrollToTop from './Components/ScrollToTop'
+import ContactUs from './pages/ContactUs'
 function App() {
 
 
@@ -31,27 +32,18 @@ function App() {
     <ScrollToTop />
       <Navbar />
       <Routes >
-        {/* ================= HOME ================= */}
         <Route path="/" element={<Homepage />} />
-
-        {/* ================= WAYS TO TRADE ================= */}
         <Route path="/cfd-trading" element={<CFDTrading />} />
         <Route path="/fx-active" element={<FXActive />} />
         <Route path="/trading-costs" element={<TradingCosts />} />
-
-        {/* ================= PLATFORMS ================= */}
         <Route path="/markets-platform" element={<MarketsPlatform />} />
         <Route path="/mobile-app" element={<MobileApp />} />
         <Route path="/meta-trader-4" element={<MetaTrader4 />} />
         <Route path="/mt5" element={<MT5 />} />
         <Route path="/tradingview" element={<TradingView />} />
         <Route path="/platforms" element={<Platforms />} />
-
-        {/* ================= ABOUT US ================= */}
         <Route path="/about-us" element={<AboutUs />} />
         <Route path="/contact-us" element={<ContactUs />} />
-
-        {/* ================= INDICES ================= */}
         <Route path="/indices" element={<Indices />} />
         <Route path="/forex" element={<Forex />} />
         <Route path="/commodities" element={<Commodities />} />
