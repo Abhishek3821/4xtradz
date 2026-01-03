@@ -1,9 +1,9 @@
 
 
 
-import Footer from './Components/Footer'
+import Footer from './components/Footer'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Navbar from './Components/Navbar'
+import Navbar from './components/Navbar'
 import Platforms from './pages/Platforms'
 import AboutUs from './pages/AboutUs'
 import Indices from './pages/Indices'
@@ -11,9 +11,9 @@ import Forex from './pages/Forex'
 import Commodities from './pages/Commodities'
 import Shares from './pages/Shares'
 import ETFs from './pages/ETFs'
-import RatesAndBonds from './pages/Rates&bonds'
+import RatesAndbonds from './pages/RatesAndbonds'
 import Cryptocurrencies from './pages/Cryptocurrencies'
-import ScrollToTop from './Components/ScrollToTop'
+import ScrollToTop from './components/ScrollToTop'
 import ContactUs from './pages/ContactUs'
 import CFDtrading from './pages/CFDtrading'
 import Homepage from './pages/Homepage'
