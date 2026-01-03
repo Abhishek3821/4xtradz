@@ -1,7 +1,6 @@
 
 
 
-import Homepage from './pages/Homepage'
 import Footer from './Components/Footer'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Navbar from './Components/Navbar'
@@ -24,6 +23,7 @@ import Cryptocurrencies from './pages/Cryptocurrencies'
 import ScrollToTop from './Components/ScrollToTop'
 import ContactUs from './pages/ContactUs'
 import CFDtrading from './pages/CFDtrading'
+import Homepage from './pages/Homepage'
 function App() {
 
 
