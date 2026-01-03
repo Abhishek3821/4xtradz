@@ -3,7 +3,7 @@ import React from "react";
 const steps = [
   {
     step: 1,
-    title: "Apply for a CMC Markets account",
+    title: "Apply for a 4XTRADZ account",
     description: "Open a live trading account with us.",
   },
   {
@@ -22,7 +22,7 @@ const steps = [
     step: 4,
     title: "Connect",
     description:
-      "Select ‘Connect’, enter your CMC Markets username and password, and complete the connection. You can now trade with us through TradingView.",
+      "Select ‘Connect’, enter your 4XTRADZ username and password, and complete the connection. You can now trade with us through TradingView.",
   },
   {
     step: 5,

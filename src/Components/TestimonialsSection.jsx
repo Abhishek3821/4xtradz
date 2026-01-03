@@ -75,7 +75,7 @@ const TestimonialsSlider = () => {
         {/* ================= HEADER ================= */}
         <div className="text-center max-w-7xl mx-auto mb-16">
           <h2 className="text-3xl md:text-5xl font-semibold text-gray-900 mb-4">
-            What are other traders saying about CMC Markets?
+            What are other traders saying about 4XTRADZ?
           </h2>
           <p className="text-black max-w-3xl mx-auto text-lg">
             As a financial services pioneer, we combine technical excellence with 35 years‘ industry know-how. That‘s why 1.5 million+ global traders and investors put their confidence in us.⁵

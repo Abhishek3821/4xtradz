@@ -12,7 +12,7 @@ const reasons = [
   {
     icon: UserCog,
     title: "35+ years' experience",
-    desc: `Founded in 1989, CMC Markets provides its clients with local expertise,
+    desc: `Founded in 1989, 4XTRADZ provides its clients with local expertise,
     backed by the security and financial strength of a global company.`,
   },
   {
@@ -53,7 +53,7 @@ const WhyTradeCFDs = () => {
 
         {/* ================= TITLE ================= */}
         <h2 className="text-center text-3xl md:text-5xl font-semibold text-white mb-16">
-          Why trade CFDs with CMC Markets?
+          Why trade CFDs with 4XTRADZ?
         </h2>
 
         {/* ================= GRID ================= */}

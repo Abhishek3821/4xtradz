@@ -3,6 +3,7 @@ import { navItems } from "../assets/assets";
 import { IoIosArrowDown } from "react-icons/io";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
 import { NavLink } from "react-router-dom";
+import logo from "../assets/xz15.webp"
 
 const Navbar = () => {
   const [hoveredItem, setHoveredItem] = useState(null);
@@ -20,9 +21,9 @@ const Navbar = () => {
             {/* LOGO */}
             <NavLink to="/" className="flex items-center">
               <img
-                src="https://www.cmcmarkets.com/neptune/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fvl2kvsmutclx%2Fz9O6jwLwYyUydPECdm1mT%2F3f90779246b877489e1bf268cd07cd30%2Fcmc-markets-log.png&w=1080&q=75"
+                src={logo}
                 alt="Logo"
-                className="h-10"
+                className="h-30"
               />
             </NavLink>
 

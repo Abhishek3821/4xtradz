@@ -17,7 +17,7 @@ const AboutCMCMarkets = () => {
             {/* Heading */}
             <h2 className="text-3xl md:text-4xl font-semibold text-gray-900 relative pl-6 mb-8">
               <span className="absolute left-0 top-2 h-8 w-1 bg-gray-900" />
-              About CMC Markets
+              About 4XTRADZ
             </h2>
 
             {/* Description */}
@@ -71,7 +71,7 @@ const AboutCMCMarkets = () => {
           <div className="relative w-full h-full">
             <img
               src={aboutImg}
-              alt="About CMC Markets"
+              alt="About 4XTRADZ"
               className="w-full h-full object-cover rounded-lg"
             />
           </div>

@@ -29,13 +29,13 @@ Trading CFDs involves trading on leverage, which means that you can enter a posi
   },
 
   cmc: {
-    title: "New to CMC Markets?",
+    title: "New to 4XTRADZ?",
     items: [
-      { q: "Is CMC Markets regulated?", a: "Yes, CMC Markets is regulated by top-tier global financial authorities." },
-      { q: "How does CMC Markets protect my money?", a: "Client funds are held in segregated trust accounts with leading banks." },
+      { q: "Is 4XTRADZ regulated?", a: "Yes, 4XTRADZ is regulated by top-tier global financial authorities." },
+      { q: "How does 4XTRADZ protect my money?", a: "Client funds are held in segregated trust accounts with leading banks." },
       { q: "How do I place a trade?", a: "You can place trades through our web platform, MetaTrader, or TradingView." },
-      { q: "What is the maximum leverage offered by CMC Markets?", a: "Leverage depends on the asset class and your regulatory region." },
-      { q: "What is TradingView?", a: "TradingView is an advanced charting platform integrated with CMC Markets." },
+      { q: "What is the maximum leverage offered by 4XTRADZ?", a: "Leverage depends on the asset class and your regulatory region." },
+      { q: "What is TradingView?", a: "TradingView is an advanced charting platform integrated with 4XTRADZ." },
       {
         q: "What are the key differences between MT4, MT5, TradingView and CMC's trading platforms?",
         a: "Each platform offers unique tools, execution methods, and charting capabilities tailored to different trading styles.",
@@ -43,7 +43,7 @@ Trading CFDs involves trading on leverage, which means that you can enter a posi
       { q: "Can I hedge positions in MetaTrader?", a: "Yes, MetaTrader allows hedging by holding long and short positions simultaneously." },
       { q: "How can I withdraw my funds?", a: "Withdrawals can be requested through the secure client portal." },
       { q: "How do I reset my password?", a: "You can reset your password using the ‘Forgot password’ option on the login page." },
-      { q: "What is the complaints procedure at CMC Markets?", a: "CMC Markets follows a structured complaints handling process in line with regulations." },
+      { q: "What is the complaints procedure at 4XTRADZ?", a: "4XTRADZ follows a structured complaints handling process in line with regulations." },
     ],
   },
 };

@@ -18,7 +18,7 @@ export default function BermudaHeadOffice() {
             </div>
 
             <div className="space-y-2 text-gray-800 text-lg leading-relaxed">
-              <p>CMC Markets Bermuda Limited</p>
+              <p>4XTRADZ Bermuda Limited</p>
               <p>Park Place</p>
               <p>55 Par-La-Ville Road, Third Floor</p>
               <p>Hamilton HM11,</p>
@@ -45,7 +45,7 @@ export default function BermudaHeadOffice() {
           {/* ================= MAP ================= */}
           <div className="w-full h-[420px] rounded-xl overflow-hidden border shadow-sm">
             <iframe
-              title="CMC Markets Bermuda Office"
+              title="4XTRADZ Bermuda Office"
               src="https://www.google.com/maps?q=Park%20Place%2C%2055%20Par-La-Ville%20Rd%2C%20Hamilton%2C%20Bermuda&output=embed"
               className="w-full h-full border-0"
               loading="lazy"

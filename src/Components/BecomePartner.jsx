@@ -7,7 +7,7 @@ const BecomePartner = () => {
 
         {/* Heading */}
         <h2 className="text-4xl md:text-5xl font-semibold text-gray-900 mb-8">
-          Become a CMC Markets partner
+          Become a 4XTRADZ partner
         </h2>
 
         {/* Description */}

@@ -10,7 +10,7 @@ const BecomePartnerSection = () => {
           {/* ================= TITLE ================= */}
           <h2 className="text-3xl md:text-5xl font-semibold text-gray-900 relative pl-4">
             <span className="absolute left-0 top-2 h-8 w-1 bg-gray-900 rounded" />
-            Become a CMC Markets partner
+            Become a 4XTRADZ partner
           </h2>
 
           {/* ================= DESCRIPTION ================= */}

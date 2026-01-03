@@ -3,7 +3,7 @@ import React from "react";
 const offices = [
   {
     country: "Australia",
-    company: "CMC Markets Asia Pacific Pty Ltd",
+    company: "4XTRADZ Asia Pacific Pty Ltd",
     address: [
       "Level 20, Tower 3, International Towers",
       "300 Barangaroo Avenue",
@@ -17,7 +17,7 @@ const offices = [
   },
   {
     country: "Canada",
-    company: "CMC Markets Canada Inc",
+    company: "4XTRADZ Canada Inc",
     address: [
       "81 Bay Street, Suite 3550",
       "Toronto, Ontario",
@@ -30,7 +30,7 @@ const offices = [
   },
   {
     country: "United Kingdom - HQ",
-    company: "CMC Markets UK plc",
+    company: "4XTRADZ UK plc",
     address: [
       "133 Houndsditch",
       "London",
@@ -43,7 +43,7 @@ const offices = [
   },
   {
     country: "New Zealand",
-    company: "CMC Markets NZ Ltd",
+    company: "4XTRADZ NZ Ltd",
     address: [
       "Level 39, ANZ Centre",
       "23–29 Albert Street",
@@ -56,7 +56,7 @@ const offices = [
   },
   {
     country: "Norway",
-    company: "CMC Markets Germany GmbH Filial Oslo",
+    company: "4XTRADZ Germany GmbH Filial Oslo",
     address: [
       "Fridtjof Nansens plass 6",
       "0160",
@@ -68,7 +68,7 @@ const offices = [
   },
   {
     country: "Poland",
-    company: "CMC Markets Germany GmbH sp. z o.o. oddział w Polsce",
+    company: "4XTRADZ Germany GmbH sp. z o.o. oddział w Polsce",
     address: [
       "ul. Emilii Plater 53",
       "Warszawa",
@@ -81,7 +81,7 @@ const offices = [
   },
   {
     country: "Singapore",
-    company: "CMC Markets Singapore Pte. Ltd",
+    company: "4XTRADZ Singapore Pte. Ltd",
     address: [
       "2 Central Boulevard, West Tower",
       "Unit #25-03, IO Central Boulevard Towers",
@@ -93,7 +93,7 @@ const offices = [
   },
   {
     country: "Spain",
-    company: "CMC Markets Germany GmbH",
+    company: "4XTRADZ Germany GmbH",
     address: [
       "Sucursal en España",
       "Paseo de la Castellana, 40, 9ª planta",
@@ -106,7 +106,7 @@ const offices = [
   },
   {
     country: "United Arab Emirates",
-    company: "CMC Markets Middle East Ltd",
+    company: "4XTRADZ Middle East Ltd",
     address: [
       "Office 2903",
       "ICD Brookfield Place, DIFC",

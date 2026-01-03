@@ -48,7 +48,7 @@ function App() {
 
         {/* ================= ABOUT US ================= */}
         <Route path="/about-us" element={<AboutUs />} />
-        {/* <Route path="/contact-us" element={<ContactUs />} /> */}
+        <Route path="/contact-us" element={<ContactUs />} />
 
         {/* ================= INDICES ================= */}
         <Route path="/indices" element={<Indices />} />

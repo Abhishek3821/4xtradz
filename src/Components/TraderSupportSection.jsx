@@ -5,7 +5,7 @@ const cards = [
   {
     title: "Licensed in Bermuda",
     description:
-      "CMC Markets Bermuda is licenced to conduct investment business and digital asset business by the Bermuda Monetary Authority (BMA).",
+      "4XTRADZ Bermuda is licenced to conduct investment business and digital asset business by the Bermuda Monetary Authority (BMA).",
     icon: Globe,
     button: "More on regulations",
   },

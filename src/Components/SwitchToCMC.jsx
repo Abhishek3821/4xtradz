@@ -22,7 +22,7 @@ const SwitchToCMC = () => {
             <p className="text-lg text-gray-100 leading-relaxed mb-8">
               We're trusted by global financial service providers, including
               tier-one banks, brokers and hedge funds. Switch your account to
-              CMC Markets and benefit from our institutional-quality technology.
+              4XTRADZ and benefit from our institutional-quality technology.
             </p>
 
             {/* Bullet points */}

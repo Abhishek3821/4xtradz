@@ -48,7 +48,7 @@ const QuestionsAndDisclaimers = () => {
           </p>
 
           <p>
-            <sup>2</sup>1.621 million unique user logins for the CMC Markets
+            <sup>2</sup>1.621 million unique user logins for the 4XTRADZ
             trading and investing platforms globally, as at August 2024.
           </p>
 
