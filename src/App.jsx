@@ -1,4 +1,4 @@
-import CFDTrading from './pages/CFDTrading'
+
 import Footer from './Components/Footer'
 import Homepage from './pages/Homepage'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
@@ -21,6 +21,7 @@ import RatesAndBonds from './pages/Rates&bonds'
 import Cryptocurrencies from './pages/Cryptocurrencies'
 import ScrollToTop from './Components/ScrollToTop'
 import ContactUs from './pages/ContactUs'
+import CFDTrading from './pages/CFDTrading'
 function App() {
 
 
