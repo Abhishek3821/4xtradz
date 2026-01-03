@@ -10,7 +10,7 @@ import BecomePartnerSection from "../Components/BecomePartnerSection";
 import FAQsSection from "../Components/FAQsSection";
 
 
-const CFDTrading = () => {
+const CFDtrading = () => {
   return (
     <>
       <TradeCFDHero />
@@ -26,4 +26,4 @@ const CFDTrading = () => {
   );
 };
 
-export default CFDTrading;
+export default CFDtrading;

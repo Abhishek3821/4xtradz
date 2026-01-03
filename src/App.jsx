@@ -1,6 +1,6 @@
 
 
-import CFDTrading from './pages/CFDTrading'
+import CFDtrading from './pages/CFDtrading'
 import Homepage from './pages/Homepage'
 import Footer from './Components/Footer'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
@@ -33,7 +33,7 @@ function App() {
       <Navbar />
       <Routes >
         <Route path="/" element={<Homepage />} />
-        <Route path="/cfd-trading" element={<CFDTrading />} />
+        <Route path="/cfd-trading" element={<CFDtrading />} />
         <Route path="/fx-active" element={<FXActive />} />
         <Route path="/trading-costs" element={<TradingCosts />} />
         <Route path="/markets-platform" element={<MarketsPlatform />} />
