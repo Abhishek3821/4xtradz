@@ -1,5 +1,5 @@
 import React from "react";
-
+import logo from "../assets/xz15.webp";
 const GetStartedCTA = () => {
   return (
     <section className="w-full bg-white py-24 lg:py-32">
@@ -11,8 +11,8 @@ const GetStartedCTA = () => {
         </p>
 
         {/* ================= ICON ================= */}
-        <div className="mx-auto mb-6 flex h-14 w-14 items-center justify-center rounded-2xl bg-gray-900">
-          <span className="text-white text-xl font-bold">III</span>
+        <div className="mx-auto mb-6 flex h-24 w-64 items-center justify-center">
+          <img src={logo} alt="logo" className="w-48 h-48" />
         </div>
 
         {/* ================= TITLE ================= */}
