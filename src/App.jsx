@@ -4,8 +4,6 @@
 import Footer from './Components/Footer'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Navbar from './Components/Navbar'
-import MobileApp from './pages/MobileApp'
-
 import TradingView from './pages/TradingView'
 import Platforms from './pages/Platforms'
 import AboutUs from './pages/AboutUs'
@@ -25,6 +23,7 @@ import TradingCosts from './pages/TradingCosts'
 import MT5 from './pages/MT5'
 import MarketsPlatform from './pages/MarketsPlatform'
 import MetaTrader4 from './pages/MetaTrader4'
+import MobileApp from './pages/MobileApp'
 
 function App() {
 
