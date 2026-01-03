@@ -4,7 +4,6 @@
 import Footer from './Components/Footer'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Navbar from './Components/Navbar'
-import FXActive from './pages/FXActive'
 import TradingCosts from './pages/TradingCosts'
 import MarketsPlatform from './pages/MarketsPlatform'
 import MobileApp from './pages/MobileApp'
@@ -24,6 +23,7 @@ import ScrollToTop from './Components/ScrollToTop'
 import ContactUs from './pages/ContactUs'
 import CFDtrading from './pages/CFDtrading'
 import Homepage from './pages/Homepage'
+import FXActive from './pages/FXActive'
 function App() {
 
 
