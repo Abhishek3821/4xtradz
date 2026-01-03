@@ -1,6 +1,8 @@
 
-import Footer from './Components/Footer'
+import ContactUs from './pages/ContactUs'
+import CFDTrading from './pages/CFDTrading'
 import Homepage from './pages/Homepage'
+import Footer from './Components/Footer'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Navbar from './Components/Navbar'
 import FXActive from './pages/FXActive'
@@ -20,8 +22,6 @@ import ETFs from './pages/ETFs'
 import RatesAndBonds from './pages/Rates&bonds'
 import Cryptocurrencies from './pages/Cryptocurrencies'
 import ScrollToTop from './Components/ScrollToTop'
-import ContactUs from './pages/ContactUs'
-import CFDTrading from './pages/CFDTrading'
 function App() {
 
 
